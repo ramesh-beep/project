@@ -1,2 +1,5 @@
 i need to get a job
+<<<<<<< HEAD
 ramesh is a good boy
+=======
+>>>>>>> d2768adc5bbada7139152c7e1b341d243d7516e1
